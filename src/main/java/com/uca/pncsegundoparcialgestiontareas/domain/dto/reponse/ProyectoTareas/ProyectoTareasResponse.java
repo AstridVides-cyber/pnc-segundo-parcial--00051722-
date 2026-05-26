@@ -1,8 +1,7 @@
-package com.uca.pncsegundoparcialgestiontareas.domain.dto.reponse;
+package com.uca.pncsegundoparcialgestiontareas.domain.dto.reponse.ProyectoTareas;
 
 import com.uca.pncsegundoparcialgestiontareas.domain.Enums.ProyectoTareasPriority;
 import com.uca.pncsegundoparcialgestiontareas.domain.Enums.ProyectoTareasStatus;
-import com.uca.pncsegundoparcialgestiontareas.domain.entities.ProyectoTareas;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
